@@ -1,9 +1,9 @@
 = to_delorean.js
 
-Description goes here.
+A Ruby gem that provides various modules which convert common data structures to the JSON format accepted by [Delorean.js](http://github.com/jsmestad/delorean.js)
 
 == Contributing to to_delorean.js
- 
+
 * Check out the latest master to make sure the feature hasn't been implemented or the bug hasn't been fixed yet
 * Check out the issue tracker to make sure someone already hasn't requested it and/or contributed it
 * Fork the project
